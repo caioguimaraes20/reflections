@@ -1,5 +1,8 @@
 O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
-
-Quando iniciamos um repositório é criado um arquivo de histórico .git que fica oculto e têm todas as informações importantes do repositório
+R.:Quando iniciamos um repositório é criado um arquivo de histórico .git que fica oculto e têm todas as informações importantes do repositório
 
 Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
+R.:
+
+Como você pode usar a área de preparação para garantir que tenha um commit por alteração lógica?
+R.: Podemos adicionar todas as alterações lógias para área de preparação e depois darmos o commit, assim serão todos atualizados juntos
